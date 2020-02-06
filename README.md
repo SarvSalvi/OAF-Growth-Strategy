@@ -12,15 +12,15 @@ Statistical Inference:
 4. Proposing viable improvements.
 
 Programming Skillset:
-1. Python for statisical analysis (
-2. Puthon for data visualization
+1. Python for statisical analysis (Pandas, Numpy, Statsmodels)
+2. Puthon for data visualization (Matplotlib)
 3. Jupyter Notebooks for generating high-quality summaries of results.
 
 ## Contents of Repository:
-1. Analysis Plan: Detailed explanantion of the method of analysis and why it was chosen.
-2. Analysis Script: Python script that replicates the regression analysis.
-3. Analysis Results: HTML file summarizing the analysis findings. (Post-departure)
-4. Proposal of Site Selection Method:  Document submitted to country program leadership to get approval to try a new method for identifying high potential growth areas.
+1. Analysis Plan: Detailed explanantion of the method of analysis and why it was chosen. (get rid of this - I can just keep a descrition here)
+2. Analysis Script: Python script that replicates the regression analysis (Post-departure: Based on original R script) 
+3. Analysis Results: HTML file summarizing the analysis findings. (Post-departure: Based on report )
+4. Proposal of Site Selection Method:  Document submitted to country program leadership to get approval to try a new method for identifying high potential growth areas. (Original Document)
 
 ## Context:
 
