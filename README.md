@@ -1,4 +1,5 @@
 # Growth-Strategy Project
+
 Contains results of an analysis of growth strategy at One Acre Fund and proposed improvements to strategy.
 
 ## Summary: 
@@ -13,7 +14,7 @@ Statistical Inference:
 
 Programming Skillset:
 1. Python for statisical analysis (Pandas, Numpy, Statsmodels)
-2. Puthon for data visualization (Matplotlib)
+2. Puthon for data visualization (Matplotlib, Seaborn)
 3. Jupyter Notebooks for generating high-quality summaries of results.
 
 ## Contents of Repository:
